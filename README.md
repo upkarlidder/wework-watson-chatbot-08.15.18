@@ -4,7 +4,7 @@
 [Introduction to chatbot using Watson Assistant PDF](assets/watson-assistant.pdf)
 
 ## IBM Cloud Sign up for this event only
-[IBM Cloud](https://ibm.biz/chatbot081518)
+[https://ibm.biz/chatbot081518](https://ibm.biz/chatbot081518)
 
 ## Additional Links
 1. [Watson Assistant Service Home](https://www.ibm.com/watson/ai-assistant/)
