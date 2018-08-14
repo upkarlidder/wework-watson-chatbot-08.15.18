@@ -1,7 +1,7 @@
 # wework-watson-chatbot-08.15.18
 
 ## Presentation
-[Introduction to chatbot using Watson Assistant PDF](assets/watson-assistant.pdf)
+[Introduction to chatbot using Watson Assistant PDF](assets/wework-watson-assistant-h2o.pdf)
 
 ## IBM Cloud Sign up for this event only
 [https://ibm.biz/chatbot081518](https://ibm.biz/chatbot081518)
